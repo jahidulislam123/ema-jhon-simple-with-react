@@ -23,3 +23,22 @@
     justify-content: space-between;
     justify-items: center;
 }
+
+.reveiw-item .delete-button {
+    background-color: rgb(250, 149, 149);
+    border: none;
+    width: 55px;
+    height: 55px;
+    border-radius: 50%;
+}
+
+.reveiw-item .delete-container {
+    display: flex;
+    align-items: center;
+}
+
+.delete-icon {
+    color: rgba(235, 87, 87, 1);
+    font-size: 27px;
+
+}
